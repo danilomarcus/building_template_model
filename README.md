@@ -1,2 +1,5 @@
 # building_template_model
-Making test  to build template
+This is a repository for share models of template
+
+Today starts: 26-12-2016
+Danilo Marcus
